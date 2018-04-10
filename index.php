@@ -9,5 +9,6 @@
 </head>
 <body>
 Go to <a href="admin2/pages/index.php">/pages/index.html</a>
+<h1>mungkin</h1>
 </body>
 </html>
